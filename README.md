@@ -1,7 +1,7 @@
 # ECNU-Phy-Lab-Report
 Due to our utter disdain for writing physics lab reports, we created this repo to graciously assist each other.
 
-This repository is organized according to the school's experimental courses, with folders created in the format of Course Name-Number-Experiment Name. Word and LaTeX file formats are provided. Please note that this repository does not include experimental data or answers to the reflection questions.
+This repository is organized according to the school's experimental courses, with folders created in the format of *Course Name-Number-Experiment Name*. Word and LaTeX file formats are provided. Please note that this repository does not include experimental data or answers to the reflection questions.
 
 We hope this repository will quickly improve your ability to write lab reports.”
 
