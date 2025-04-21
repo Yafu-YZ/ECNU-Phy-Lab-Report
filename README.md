@@ -5,7 +5,7 @@ This repository is organized according to the school's experimental courses, wit
 
 We hope this repository will quickly improve your ability to write lab reports.”
 
-Contributors：阿尼亚，
+Contributors：阿尼亚，Cucumbersouplover
 
 # ECNU-物理实验报告
 出于对书写物理实验报告的极度厌恶，我们创立了这个仓库来帮助大家。
